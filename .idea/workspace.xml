@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a095be1-0268-4aa6-a37e-e082f761297e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Egor\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6948.69\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l8dKwUtTQRQ8lhaUsuu6Wgy962" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java.Task12.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.shouldDecode8RadixNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java.Task12.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="shouldDecode8RadixNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.shouldDecodeNegativeNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java.Task12.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="shouldDecodeNegativeNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.shouldHandleMaxAndMinIntegerCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java.Task12.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="shouldHandleMaxAndMinIntegerCases" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.shouldThrowExceptionWhenSignCharacterInWrongPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java.Task12.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="shouldThrowExceptionWhenSignCharacterInWrongPosition(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.Tests.shouldDecodeNegativeNumbers" />
+        <item itemvalue="JUnit.Tests.shouldHandleMaxAndMinIntegerCases" />
+        <item itemvalue="JUnit.Tests.shouldThrowExceptionWhenSignCharacterInWrongPosition" />
+        <item itemvalue="JUnit.Tests.shouldDecode8RadixNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a095be1-0268-4aa6-a37e-e082f761297e" name="Default Changelist" comment="" />
+      <created>1606982593960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606982593960</updated>
+      <workItem from="1606982595339" duration="2365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="119" y="40" key="#Project_Structure" timestamp="1606982606153">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="119" y="40" key="#Project_Structure/0.40.1536.824@0.40.1536.824" timestamp="1606982606153" />
+    <state width="1481" height="288" key="GridCell.Tab.0.bottom" timestamp="1606984943560">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1481" height="288" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1606984943560" />
+    <state width="1481" height="288" key="GridCell.Tab.0.center" timestamp="1606984943560">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1481" height="288" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1606984943560" />
+    <state width="1481" height="288" key="GridCell.Tab.0.left" timestamp="1606984943560">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1481" height="288" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1606984943560" />
+    <state width="1481" height="288" key="GridCell.Tab.0.right" timestamp="1606984943560">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1481" height="288" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1606984943560" />
+    <state x="418" y="322" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606983124792">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="418" y="322" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.40.1536.824@0.40.1536.824" timestamp="1606983124792" />
+    <state x="347" y="39" width="840" height="1034" key="search.everywhere.popup" timestamp="1606983769472">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="347" y="39" width="840" height="1034" key="search.everywhere.popup/0.40.1536.824@0.40.1536.824" timestamp="1606983769472" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Task12_1$Tests.ic" NAME="Tests Coverage Results" MODIFIED="1606984803570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
